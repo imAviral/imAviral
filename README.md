@@ -64,6 +64,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imAviral&theme=gotham&hide_border=false" height="220" alt="streak graph"  />
 </div>
 
+### Spotify Playing 🎧
+
+<p align="center">
+    <img src="https://avispotify.vercel.app/api/spotify" alt="Spotify">
+</p>
+
 ###
 
 <br clear="both">
@@ -72,10 +78,6 @@
 
 ###
 
-### Spotify Playing 🎧
-
-![Spotify](https://avispotify.vercel.app/api/spotify)
-
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/imAviral/imAviral/b7bdf5b9ed5ef837e74505bf6aa45f5a95ea4fa5/svg/bottom.svg" alt="Github Stats" />
 </p>
