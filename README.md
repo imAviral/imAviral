@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Pet Store** `(Private Project)`
 
-- 🌱 I’m currently learning **Rust, Actix-web, Qwick,**
+- 🌱 I’m currently learning **Rust, Actix-web, Solid**
 
 ###
 
